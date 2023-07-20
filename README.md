@@ -1,1 +1,1 @@
-"# advertisingService" 
+# AdvertisingService
